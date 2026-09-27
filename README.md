@@ -23,7 +23,7 @@
 > [!NOTE]
 > **Foundations tier** — this project is built for someone who has never written Python before. The source code is heavily commented as a teaching aid, the `learn/` folder explains every concept from zero, and the whole tool is one readable file. If you already know Python, jump straight to [`PROJECTS/beginner/hash-cracker`](../../beginner/hash-cracker) — the natural cracking companion to this identifier.
 
-## What It Does
+## What It Does:
 
 - Identify ~30 hash formats by prefix (`$2b$`, `$argon2id$`, `$apr1$`, `pbkdf2_sha256$`, `{SSHA}`, and more)
 - Identify common hex hashes by length (MD5, SHA-1, SHA-256, SHA-512, NTLM, MD4, RIPEMD, BLAKE2, SHA-3)
