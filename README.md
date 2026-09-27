@@ -100,7 +100,7 @@ This project includes step-by-step learning materials covering security theory, 
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Line-by-line walkthrough — every Python feature explained when first encountered |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Five tiers of extension ideas, from adding a prefix rule to building an ML classifier |
 
-## See Also
+## See Also:
 
 - [`PROJECTS/beginner/hash-cracker`](../../beginner/hash-cracker) — the natural sibling. Once this tool tells you *what* a hash is, that one teaches you how to crack it.
 - [`PROJECTS/foundations/http-headers-scanner`](../http-headers-scanner) — another foundations-tier Python project, slightly more involved I/O.
