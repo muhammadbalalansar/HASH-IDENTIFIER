@@ -88,7 +88,7 @@ just run -- <h> # identify a hash
 
 No compilers, no system libraries, no network access required. The project is one Python file plus tests.
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation — written for someone who has never touched Python before.
 
