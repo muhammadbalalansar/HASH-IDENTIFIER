@@ -33,7 +33,7 @@
 - Pure-function core — no network, no filesystem, no global state, instant runtime
 - Rich-rendered colored output table; clean exit codes for shell scripting
 
-## Quick Start
+## Quick Start:
 
 ```bash
 ./install.sh
